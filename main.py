@@ -18,7 +18,7 @@ reboundzonemax = 190 # The maximum width the terrain can be before it starts reb
 reboundzonestrength = 1 # How much of an influence the rebound zone has (The higher the value, the stronger the rebound)
 
 startingwidth = 50 # The starting width of the terrain.
-generationdelay = 0.05 # The delay in seconds between each line of terrain generated. A value of 0 will cause the lines to generate as fast as the CPU can handle.
+generationdelay = 0.025 # The delay in seconds between each line of terrain generated. A value of 0 will cause the lines to generate as fast as the CPU can handle.
 
 roughness = 5 # How much variation in elevation the terrain has. The higher the number, the more likely steep slopes are to occur.
 
